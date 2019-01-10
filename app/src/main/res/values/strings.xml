@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SholatYuk</string>
+    <string name="about">About</string>
+    <string name="jadwal_sholat">Jadwal Sholat</string>
+    <string name="lokasi_tempat">Lokasi, tempat</string>
+    <string name="value">value</string>
+    <string name="fajar">Fajar</string>
+    <string name="subuh">Subuh</string>
+    <string name="dhuhur">Dhuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+</resources>
